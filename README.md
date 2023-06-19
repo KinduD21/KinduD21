@@ -31,3 +31,19 @@ I am a Front-End Developer from Kyiv, Ukraine.
    LinkedIn
   </a>
 ---
+
+<b>My skills:</b>
+
+<img src="https://github.com/KinduD21/KinduD21/assets/112539187/427c091c-15f5-451d-a2ee-acb6c490e2ea" width="40px"> <img src="https://github.com/KinduD21/KinduD21/assets/112539187/9231e60b-3801-4a4b-b6cd-f37004c1b00f" width="40px"> <img src="https://github.com/KinduD21/KinduD21/assets/112539187/1c486965-a088-4145-b069-71c67fc6600c" width="35px"> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" width="35px">
+
+<b>Things I'm mastering:</b>
+
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968358.png" width="35px"> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="40px"> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40px"> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png" width="35px"> &nbsp; <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="35px"> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="35px">
+
+<b>What I use:</b>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="35px"> &nbsp; <img src="https://cdn-icons-png.flaticon.com/128/5968/5968866.png" width="40px"> &nbsp; <img src="https://cdn-icons-png.flaticon.com/128/5968/5968853.png" width="40px">
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KinduD21&theme=dark)](https://git.io/streak-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KinduD21&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
