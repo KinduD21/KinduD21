@@ -26,7 +26,7 @@ I am a Front-End Developer from Kyiv, Ukraine.
 - 🔭 I’m currently learning <b>ReactJS, Tailwind, SMACSS</b>.
 - 🌱 Exploring Front-End development: tools, frameworks, best practices.
 - My hobbies are 🕺 👨‍💻 🎮 🏓 
-- ⚡ In my free time I'm concentrated on my skills' upgrading and gaining new knowledge of web development.
+- ⚡ In my free time I'm concentrated on my programming skills' upgrading and gaining new knowledge of web development.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/vitalii-dudnik-baa01b280/">
    LinkedIn
   </a>
