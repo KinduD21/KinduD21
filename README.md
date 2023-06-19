@@ -23,6 +23,12 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
----
-
 ### :man_technologist: About Me :
+
+I am a Front-End Developer from Kyiv, Ukraine.
+
+🔭 I’m currently creating pet-projects for my portfolio.
+🌱 Exploring Front-End development: tools, frameworks, best practices.
+⚡ In my free time I'm concentrated on my skills' upgrading and gaining new knowledge of web development.
+📫 How to reach me:   Linkedin Badge
+---
