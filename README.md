@@ -15,7 +15,7 @@
 </div>
 
 <h1 align="center">
-  hey there
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -27,8 +27,10 @@
 
 I am a Front-End Developer from Kyiv, Ukraine.
 
-🔭 I’m currently creating pet-projects for my portfolio.
-🌱 Exploring Front-End development: tools, frameworks, best practices.
-⚡ In my free time I'm concentrated on my skills' upgrading and gaining new knowledge of web development.
-📫 How to reach me:   Linkedin Badge
+- 🔭 I’m currently creating pet-projects for my portfolio.
+- 🌱 Exploring Front-End development: tools, frameworks, best practices.
+- ⚡ In my free time I'm concentrated on my skills' upgrading and gaining new knowledge of web development.
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/vitalii-dudnik-baa01b280/">
+   LinkedIn
+  </a>
 ---
