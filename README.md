@@ -44,6 +44,10 @@ I am a Front-End Developer from Kyiv, Ukraine.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="35px"> &nbsp; <img src="https://cdn-icons-png.flaticon.com/128/5968/5968866.png" width="40px"> &nbsp; <img src="https://cdn-icons-png.flaticon.com/128/5968/5968853.png" width="40px">
 
+---
+
+🔥   My Stats:
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KinduD21&theme=dark)](https://git.io/streak-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KinduD21&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
