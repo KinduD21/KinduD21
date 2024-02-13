@@ -23,7 +23,7 @@
 
 I am a Front-End Developer from Kyiv, Ukraine.
 
-- 🔭 I’m currently learning <b>ReactJS, Tailwind, SMACSS</b>.
+- 🔭 I’m currently learning <b>Tailwind, SMACSS, Bulma</b>.
 - 🌱 Exploring Front-End development: tools, frameworks, best practices.
 - My hobbies are 🎮 👨‍💻 ⚽️ 🕺🏼 📚
 - ⚡ In my free time I'm concentrated on my programming skills' upgrading and gaining new knowledge of web development.
