@@ -38,11 +38,11 @@ I am a Front-End Developer from Kyiv, Ukraine.
 
 <b>Things I'm mastering:</b>
 
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968358.png" width="35px"> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="40px"> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="35px"> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png?20170311074507" width="35px">
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968358.png" width="35px"> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="40px"> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="35px"> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png?20170311074507" width="35px"> &nbsp; <img src="https://pinia.vuejs.org/logo.svg" width="35px">
 
 <b>What I use:</b>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="35px"> &nbsp; <img src="https://cdn-icons-png.flaticon.com/128/5968/5968866.png" width="40px"> &nbsp; <img src="https://cdn-icons-png.flaticon.com/128/5968/5968853.png" width="40px">
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968866.png" width="35px"> &nbsp; <img src="https://cdn-icons-png.flaticon.com/128/5968/5968853.png" width="40px"> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="40px"> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Firebase_icon.svg/120px-Firebase_icon.svg.png" width="40px">
 
 ---
 
