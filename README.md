@@ -28,7 +28,7 @@ I am a Front-End Developer from Kyiv, Ukraine.
 - My hobbies are 🎮 👨‍💻 ⚽️ 🕺🏼 📚
 - ⚡ In my free time I'm concentrated on my programming skills' upgrading and gaining new knowledge of web development.
 - 📫 How to reach me: <a href="https://t.me/dudnik_vtl">
-   LinkedIn
+   Telegram
   </a>
 ---
 
