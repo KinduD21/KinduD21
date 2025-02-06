@@ -20,6 +20,7 @@
 ### :man_technologist: About Me :
 
 I am a Front-End Developer from Kyiv, Ukraine.
+</br>
 **Currently working on** **[Vueless](https://github.com/vuelessjs/vueless)**, an open-source UI library for Vue.js.
 
 - My hobbies are 🎮 👨‍💻 ⚽️ 🕺🏼
