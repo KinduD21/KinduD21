@@ -32,7 +32,9 @@ I am a Front-End Developer from Kyiv, Ukraine.
 
 <b>My tech stack:</b>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxtjs,pinia,tailwindcss,git,vite,npm,yarn&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=vue,nuxtjs,pinia,tailwindcss)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=git,vite,npm,yarn)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;
 
 <b>What I use:</b>
 
