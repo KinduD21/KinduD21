@@ -39,11 +39,3 @@ I am a Front-End Developer from Kyiv, Ukraine.
 <b>What I use:</b>
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,gitlab,firebase,figma)](https://skillicons.dev)
-
----
-
-🔥   My Stats:
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KinduD21&theme=dark)](https://git.io/streak-stats) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KinduD21&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
