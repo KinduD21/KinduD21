@@ -34,7 +34,7 @@ I am a Front-End Developer from Kyiv, Ukraine.
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=vue,nuxtjs,pinia,tailwindcss)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=git,vite,npm,yarn)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=vitest,vite,sass,git)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;
 
 <b>What I use:</b>
 
