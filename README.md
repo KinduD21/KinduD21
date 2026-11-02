@@ -21,7 +21,7 @@
 
 I am a Front-End Developer from Kyiv, Ukraine.
 </br>
-**Currently working on** **[Vueless](https://github.com/vuelessjs/vueless)**, an open-source UI library for Vue.js.
+Core member of **[Vueless](https://github.com/vuelessjs/vueless)**, an open-source UI library for Vue.js.
 
 - My hobbies are 🎮 👨‍💻 ⚽️ 🕺🏼
 - ⚡ In my free time, I focus on improving my programming skills and gaining new knowledge in web development.
